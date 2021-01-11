@@ -14,19 +14,19 @@ Before that, I was at Columbia, where I earned a BA in Computer Science and Econ
 
 Working Papers
 ======
-{% include base_path %}
-{% for post in site.wps reversed %}
+{% for post in site.wps %}
   {% include archive-single.html %}
 {% endfor %}
-
-Early-Stage Work
-======
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<br>
 Published Research
 ======
-{% for post in site.publications reversed %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
+<br>
+Early-Stage Work
+======
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+<br>
