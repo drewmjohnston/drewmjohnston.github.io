@@ -18,15 +18,16 @@ Working Papers
   {% include archive-single.html %}
 {% endfor %}
 <br>
+
 Published Research
 ======
 {% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
 <br>
+
 Early-Stage Work
 ======
 {% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
-<br>
