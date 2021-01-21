@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D student in Harvard's Economics Department, where I spend most of my time thinking about social influence, cities, and computers. 
+I'm a Ph.D student in Economics at Harvard, where I spend most of my time thinking about social influence, cities, and computers. 
 
 Before that, I was at Columbia, where I earned a BA in Computer Science and Economics. In between, I did research at NYU Stern and Facebook.
 
