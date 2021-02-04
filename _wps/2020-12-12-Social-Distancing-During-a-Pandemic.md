@@ -1,5 +1,5 @@
 ---
-title: "Social Distancing During a Pandemic The Role of Friends"
+title: "Social Distancing During a Pandemic: The Role of Friends"
 collection: wps
 link: /files/Social-Distancing-During-A-Pandemic.pdf
 coauthors: Michael Bailey, Martin Koenen, Theresa Kuchler, Dominic Russel, and Johannes Stroebel
