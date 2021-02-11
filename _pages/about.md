@@ -1,14 +1,13 @@
 ---
 permalink: /
 layout: archive
-title: "Drew Johnston"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a Ph.D student in Economics at Harvard, where I spend most of my time thinking about social influence, cities, and computers. 
+I'm a Ph.D student in Economics at Harvard, where I spend most of my time thinking about social influence and cities.
 
 Before that, I was at Columbia, where I earned a BA in Computer Science and Economics. In between, I did research at NYU Stern and Facebook.
 
