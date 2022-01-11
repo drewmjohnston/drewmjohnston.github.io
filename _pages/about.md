@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D student in Economics at Harvard, where I spend most of my time thinking about social influence and cities.
+I'm a Ph.D student in Economics at Harvard, where I spend most of my time thinking about cities, the social world, and the interactions between them. At Harvard, I am affiliated with Opportunity Insights.
 
-Before that, I was at Columbia, where I earned a BA in Computer Science and Economics. In between, I did research at NYU Stern and Facebook.
+Before graduate school, I was at Columbia, where I earned a BA in Computer Science and Economics. In between, I did research at NYU Stern and Facebook.
 
 Working Papers
 ======
