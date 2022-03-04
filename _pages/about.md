@@ -24,9 +24,3 @@ Published Research
   {% include archive-single.html %}
 {% endfor %}
 <br>
-
-Early-Stage Work
-======
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
