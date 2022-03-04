@@ -12,14 +12,13 @@ I'm a Ph.D student in Economics at Harvard, where I spend most of my time thinki
 Before graduate school, I was at Columbia, where I earned a BA in Computer Science and Economics. In between, I did research at NYU Stern and Facebook.
 
 Working Papers
-======
+------
 {% for post in site.wps %}
   {% include archive-single.html %}
 {% endfor %}
-<br>
 
 Published Research
-======
+------
 {% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
