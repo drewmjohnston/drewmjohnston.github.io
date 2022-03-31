@@ -38,7 +38,11 @@
     {% endif %}
 
     {% if post.outcome %}
-      <br>{{post.outcome}}
+      {% if post.outcome_link %}
+          <br><a style="color:#494e52" href="{{post.outcome_link}}" rel="permalink">{{post.outcome}}</a>
+      {% else %}
+          <br>{{post.outcome}}
+      {% endif %}
     {% endif %}
 
     {% if post.press %}
