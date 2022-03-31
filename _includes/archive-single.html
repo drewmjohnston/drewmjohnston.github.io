@@ -38,10 +38,14 @@
     {% endif %}
 
     {% if post.outcome %}
+      <br>
+      {% if post.outcome_prefix %}
+          {{post.outcome_prefix}}
+      {% endif %}
       {% if post.outcome_link %}
-          <br><a style="color:#494e52" href="{{post.outcome_link}}" rel="permalink">{{post.outcome}}</a>
+          <a style="color:#494e52" href="{{post.outcome_link}}" rel="permalink">{{post.outcome}}</a>
       {% else %}
-          <br>{{post.outcome}}
+          <u>{{post.outcome}}</u>
       {% endif %}
     {% endif %}
 
