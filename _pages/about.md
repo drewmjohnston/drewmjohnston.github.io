@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a Ph.D student in Economics at Harvard, where I think about cities, the social world, and the interactions between them. 
 
-At Harvard, I am affiliated with Opportunity Insights.
+At Harvard, I am affiliated with Opportunity Insights and the Institute for Quantitative Social Science.
 
 Before graduate school, I was at Columbia, where I earned a BA in Computer Science and Economics. 
 
