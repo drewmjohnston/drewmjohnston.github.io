@@ -2,7 +2,7 @@
 title: "The Determinants of Social
 Connectedness in Europe"
 collection: wps
-link: /files/The-Determinants-of-Social-Connectedness-in-Europe.pdf
+link: "https://drew-johnston.com/files/The-Determinants-of-Social-Connectedness-in-Europe.pdf"
 coauthors: Michael Bailey, Theresa Kuchler, Dominic Russel, Bogdan State, and Johannes Stroebel
 date: 2020-10-07
 outcome_prefix: 

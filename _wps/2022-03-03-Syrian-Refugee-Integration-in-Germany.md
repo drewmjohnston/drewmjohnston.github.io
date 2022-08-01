@@ -1,7 +1,7 @@
 ---
 title: "The Social Integration of International Migrants: Evidence from the Networks of Syrians in Germany"
 collection: wps
-link: /files/Integration_of_Syrian_Migrants_in_Germany.pdf
+link: "https://drew-johnston.com/files/Integration_of_Syrian_Migrants_in_Germany.pdf"
 coauthors: Michael Bailey, Martin Koenen, Theresa Kuchler, Dominic Russel, and Johannes Stroebel
 date: 2022-03-03
 outcome_prefix: Awarded Best Poster at IC2S2 2022

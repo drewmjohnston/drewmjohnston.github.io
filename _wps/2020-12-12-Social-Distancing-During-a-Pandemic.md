@@ -1,7 +1,7 @@
 ---
 title: "Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing during the COVID-19 Pandemic"
 collection: wps
-link: /files/Social-Distancing-During-A-Pandemic.pdf
+link: "https://drew-johnston.com/files/Social-Distancing-During-A-Pandemic.pdf"
 coauthors: Michael Bailey, Martin Koenen, Theresa Kuchler, Dominic Russel, and Johannes Stroebel
 date: 2020-12-12
 outcome_prefix: 'Revise & Resubmit at '

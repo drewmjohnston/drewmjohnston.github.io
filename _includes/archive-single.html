@@ -28,7 +28,7 @@
 
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a style="color:#494e52" href="{{ base_path }}{{ post.link }}" rel="permalink">{{ title }}</a>
+        <a style="color:#494e52" href="{{ post.link }}" rel="permalink">{{ title }}</a>
       {% else %}
         {{ title }}
       {% endif %}

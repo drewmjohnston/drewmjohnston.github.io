@@ -1,7 +1,7 @@
 ---
 title: "Peer Effects in Product Adoption"
 collection: wps
-link: /files/Peer-Effects-In-Product-Adoption.pdf
+link: "https://drew-johnston.com/files/Peer-Effects-In-Product-Adoption.pdf"
 coauthors: Michael Bailey, Theresa Kuchler, Johannes Stroebel, and Arlene Wong
 date: 2020-03-04
 outcome_prefix: ''
