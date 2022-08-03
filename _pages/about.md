@@ -19,13 +19,13 @@ In between, I did research at NYU Stern and Facebook.
 
 Working Papers
 ------
-{% for post in site.wps %}
+{% for post in site.wps reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Published Research
 ------
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 <br>
