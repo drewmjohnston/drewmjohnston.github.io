@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D candidate in Economics at Harvard, where I think about cities, the social world, and the interactions between them. 
+I'm a PhD candidate in Economics at Harvard, where I think about cities, the social world, and the interactions between them. 
 
 At Harvard, I am affiliated with Opportunity Insights and the Institute for Quantitative Social Science.
 
