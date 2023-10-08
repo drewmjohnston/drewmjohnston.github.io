@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Childhood Environment on Political Behavior: Evidence From Young U.S. Movers, 1992-2021" 
 collection: wps
-link: "https://martin-koenen.com/files/Effect_of_Childhood-Environment_on_Political_Behavior.pdf"
+link: "https://martinkoenen.github.io/files/Effect_of_Childhood-Environment_on_Political_Behavior.pdf"
 coauthors: Jacob Brown, Enrico Cantoni, Sahil Chinoy and Vincent Pons
 date: 2023-10-09
 outcome_prefix: # 'Revise & Resubmit at the '

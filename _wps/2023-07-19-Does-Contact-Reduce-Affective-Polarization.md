@@ -1,7 +1,7 @@
 ---
 title: "Does Contact Reduce Affective Polarization? Field Evidence from Germany"
 collection: wps
-link: "https://martin-koenen.com/files/Does_Contact_Reduce_Affective_Polarization.pdf"
+link: "https://martinkoenen.github.io/files/Does_Contact_Reduce_Affective_Polarization.pdf"
 coauthors: Adrian Blattner
 date: 2023-07-19
 outcome_prefix: # 'Revise & Resubmit at the '
