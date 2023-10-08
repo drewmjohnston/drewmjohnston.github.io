@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD candidate in Economics at Harvard, where I think about cities, the social world, and the interactions between them. 
+I'm a PhD candidate in Political Economy and Government at Harvard. I'm interested in political economy, inequality and migration. 
 
-At Harvard, I am affiliated with Opportunity Insights and the Institute for Quantitative Social Science.
+I am affiliated with Opportunity Insights and the Institute for Quantitative Social Science.
 
-Before graduate school, I was at Columbia, where I earned a BA in Computer Science and Economics. 
+Before graduate school, I earned a MSc in Economics from the University of Mannheim, and a BSc in Economics from Humboldt University of Berlin.  
 
-In between, I did research at NYU Stern and Facebook.
+In between, I was a pre-doctoral fellow at Stanford and Harvard working for professors Raj Chetty, John Friedman and Nathan Hendren.
 
 <br>
 

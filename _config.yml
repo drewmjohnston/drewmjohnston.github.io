@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Drew Johnston"
+title                    : "Martin Koenen"
 title_separator          : "-"
 name                     : &name 
 description              : &description 
 url                      : https://drew-johnston.com  #http://127.0.0.1:4000 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "drewmjohnston/drewmjohnston.github.io"
+repository               : "martinkoenen/martinkoenen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -45,22 +45,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom", "google-universal"
+  provider               :  # "google-gtag" # false (default), "google", "google-universal", "custom", "google-universal"
   google:
-    tracking_id          : "G-R6V30YFMKY"
+    tracking_id          : # "G-R6V30YFMKY"
 
 
 # Site Author
 author:
-  name             : "Drew Johnston"
-  avatar           : "profile.jpg"
+  name             : "Martin Koenen"
+  avatar           : "profile_mk.jpg"
   bio              : "PhD Candidate @ Harvard"
   location         : 
-  cv               : "https://drew-johnston.com/files/CV.pdf"
+  cv               : # "https://drew-johnston.com/files/CV.pdf"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=1CiatLQAAAAJ"
-  email            : "drewjohnston@g.harvard.edu"
+  googlescholar    : # "https://scholar.google.com/citations?user=1CiatLQAAAAJ"
+  email            : "martin_koenen@g.harvard.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -69,20 +69,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "drewmjohnston"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "drew-m-johnston"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "drew_m_johnston"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
