@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD candidate in Political Economy and Government at Harvard. I'm interested in political economy, inequality and migration. 
+I'm a PhD candidate in Political Economy and Government at Harvard. I'm interested in political economy, inequality, and migration. 
 
 I am affiliated with Opportunity Insights and the Institute for Quantitative Social Science.
 
