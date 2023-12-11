@@ -9,9 +9,9 @@ redirect_from:
 ---
 I'm a PhD candidate in Economics at Harvard, where I think about cities, the social world, and the interactions between them. 
 
-At Harvard, I am affiliated with Opportunity Insights and the Institute for Quantitative Social Science.
+At Harvard, I am affiliated with Opportunity Insights, the Institute for Quantitative Social Science, and the Davis Center
 
-Before graduate school, I was at Columbia, where I earned a BA in Computer Science and Economics. 
+Before graduate school, I studied at Columbia, where I earned a BA in Computer Science and Economics. 
 
 In between, I did research at NYU Stern and Facebook.
 
