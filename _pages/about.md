@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a PhD candidate in Economics at Harvard, where I think about cities, the social world, and the interactions between them. 
 
-At Harvard, I am affiliated with Opportunity Insights, the Institute for Quantitative Social Science, and the Davis Center
+At Harvard, I am affiliated with Opportunity Insights, the Institute for Quantitative Social Science, and the Davis Center.
 
 Before graduate school, I studied at Columbia, where I earned a BA in Computer Science and Economics. 
 
