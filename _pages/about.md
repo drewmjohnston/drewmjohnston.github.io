@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD candidate in Political Economy and Government at Harvard. I'm interested in political economy, inequality, and migration. 
+Hello! I am a PhD candidate in Political Economy and Government at Harvard. In one branch of my work, I study issues related to social networks, inequality, and migration. In a second branch, I do research related to political preferences and polarization.
 
 I am affiliated with Opportunity Insights and the Institute for Quantitative Social Science.
 
