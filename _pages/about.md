@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD candidate in Economics at Harvard, where I think about cities, the social world, and the interactions between them. 
+I'm a Postdoctoral Research Scientist at Meta and a Research Associate at Opportunity Insights. 
 
-At Harvard, I am affiliated with Opportunity Insights, the Institute for Quantitative Social Science, and the Davis Center.
+At Meta, I work with the Social Capital Lab, studying the connections between social ties, places, and economic opportunity.
 
-Before graduate school, I studied at Columbia, where I earned a BA in Computer Science and Economics. 
+I received my PhD in Economics in 2024 from Harvard University, where I was advised by Raj Chetty, Ed Glaeser, and Jesse Shapiro.
 
-In between, I did research at NYU Stern and Facebook.
+Before all that, I studied at Columbia University, where I received a BA in Computer Science and Economics, and worked at NYU Stern as a research scientist.
 
 <br>
 
