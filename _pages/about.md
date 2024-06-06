@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Postdoctoral Research Scientist at Meta and a Research Associate at Opportunity Insights. 
+I'm a Postdoctoral Research Scientist at Meta.
 
 At Meta, I work with the Social Capital Lab, studying the connections between social ties, places, and economic opportunity.
 
