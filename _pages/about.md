@@ -13,7 +13,7 @@ At Meta, I work with the Social Capital Lab, studying the connections between so
 
 I received my PhD in Economics in 2024 from Harvard University, where I was advised by Raj Chetty, Ed Glaeser, and Jesse Shapiro.
 
-Before that, I studied at Columbia University, receiving a BA in Computer Science and Economics, and worked at NYU Stern as a research scientist.
+Before that, I studied at Columbia University, where I received a BA in Computer Science and Economics.
 
 <br>
 
