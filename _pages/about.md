@@ -25,7 +25,7 @@ I am currently on the 2024-205 economics job market.
 
 Job Market Paper
 ------
-{% for post in site.jmp reversed %}
+{% for post in site.wps reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
