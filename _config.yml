@@ -157,6 +157,9 @@ collections:
   wps:
     output: true
     permalink: /:collection/:path/
+  jmp:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -186,6 +189,13 @@ defaults:
   - scope:
       path: ""
       type: wps
+    values:
+      layout: single
+      author_profile: true
+  # _jmp
+  - scope:
+      path: ""
+      type: jmp
     values:
       layout: single
       author_profile: true
