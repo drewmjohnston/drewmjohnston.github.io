@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a PhD candidate in Political Economy and Government at Harvard. In one branch of my work, I study issues related to social networks, inequality, and migration. In a second branch, I do research related to political preferences and polarization.
+Hello! 
 
-I am affiliated with Opportunity Insights and the Institute for Quantitative Social Science.
+I am a PhD Candidate in Political Economy and Government at Harvard, and a research affiliate at Opportunity Insights and the Institute for Quantitative Social Science. 
 
-Before graduate school, I earned a MSc in Economics from the University of Mannheim, and a BSc in Economics from Humboldt University of Berlin.  
+In my research, I primarily explore how social capital shapes economic outcomes, for instance by influencing where people live and how much they earn. In a second strand of work, I investigate the causes and consequences of political preferences and polarization. 
 
-In between, I was a pre-doctoral fellow at Stanford and Harvard working for professors Raj Chetty, John Friedman and Nathan Hendren.
+Before graduate school, I worked at Opportunity Insights and earned a MSc in Economics from the University of Mannheim, and a BSc in Economics from Humboldt University of Berlin.  
+
+I am currently on the 2024-205 economics job market.
 
 <br>
 
