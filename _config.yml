@@ -195,7 +195,7 @@ defaults:
   # _jmp
   - scope:
       path: ""
-      type: wps
+      type: jmp
     values:
       layout: single
       author_profile: true
