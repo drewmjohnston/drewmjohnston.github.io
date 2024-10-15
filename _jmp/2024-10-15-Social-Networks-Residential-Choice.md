@@ -1,6 +1,6 @@
 ---
 title: "Social Networks and Residential Choice: Micro Evidence and Macro Implications"
-collection: wps
+collection: jmp
 link: "https://martinkoenen.com/files/Integration_of_Syrian_Migrants_in_Germany.pdf"
 coauthors: Drew Johnston
 date: 2024-10-15
