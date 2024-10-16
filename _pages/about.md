@@ -24,7 +24,7 @@ Before graduate school, I worked at Opportunity Insights and earned a MSc in Eco
 
 <br>
 
-I am currently on the 2024-205 economics job market.
+I am currently on the 2024-2025 economics job market.
 
 <br>
 
