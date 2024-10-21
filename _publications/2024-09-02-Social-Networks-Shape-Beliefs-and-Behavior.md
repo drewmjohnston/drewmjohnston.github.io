@@ -2,7 +2,7 @@
 title: "Social Networks Shape Beliefs and Behavior: Evidence from Social Distancing during the COVID-19 Pandemic"
 collection: wps
 link: "https://martinkoenen.com/files/Social_Networks_Shape_Beliefs_and_Behavior.pdf"
-coauthors: Michael Bailey, Drew Johnston Koenen, Theresa Kuchler, Dominic Russel, and Johannes Stroebel
+coauthors: Michael Bailey, Drew Johnston, Theresa Kuchler, Dominic Russel, and Johannes Stroebel
 date: 2024-09-02
 outcome_link: https://www.journals.uchicago.edu/doi/10.1086/729533
 outcome: 'Journal of Political Economy Microeconomics, 2 (3), 463-494, August 2024'
