@@ -1,7 +1,7 @@
 ---
 title: "Political Sorting in the U.S. Labor Market: Evidence and Explanations" 
 collection: wps
-link: "https://martinkoenen.github.io/files/chinoy_politics_work.pdf"
+link: "https://sahilchinoy.s3.us-west-1.amazonaws.com/chinoy_politics_work.pdf"
 coauthors: Sahil Chinoy
 date: 2024-10-26
 outcome_prefix: # 'Revise & Resubmit at the '
