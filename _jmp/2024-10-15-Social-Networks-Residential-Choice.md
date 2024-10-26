@@ -1,7 +1,7 @@
 ---
 title: "Social Ties and Residential Choice: Micro Evidence and Macro Implications"
 collection: jmp
-link: "https://martinkoenen.com/files/jmp.pdf"
+link: "https://martinkoenen.com/files/social_networks_migration.pdf"
 coauthors: Drew Johnston
 date: 2024-10-26
 outcome_prefix: #'Revise & Resubmit at the '
