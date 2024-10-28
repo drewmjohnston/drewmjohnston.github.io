@@ -2,7 +2,7 @@
 title: "Social Networks and Residential Choice: Micro Evidence and Macro Implications"
 collection: wps
 link: "https://drew-johnston.com/files/Social_Networks_and_Residential_Choice.pdf"
-coauthors: Michael Bailey, Martin Koenen, Theresa Kuchler, Dominic Russel, and Johannes Stroebel
+coauthors: Martin Koenen
 date: 2024-10-28
 outcome_prefix:
 outcome:
