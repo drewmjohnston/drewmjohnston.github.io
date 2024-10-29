@@ -1,7 +1,7 @@
 ---
-title: "Social Networks and Residential Choice: Micro Evidence and Macro Implications"
+title: "Social Ties and Residential Choice: Micro Evidence and Macro Implications"
 collection: wps
-link: "https://drew-johnston.com/files/Social_Networks_and_Residential_Choice.pdf"
+link: "https://drew-johnston.com/files/Social_Ties_and_Residential_Choice.pdf"
 coauthors: Martin Koenen
 date: 2024-10-28
 outcome_prefix:
