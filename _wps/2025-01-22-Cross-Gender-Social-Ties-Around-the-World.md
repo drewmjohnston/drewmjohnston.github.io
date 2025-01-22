@@ -1,7 +1,7 @@
 ---
 title: "Cross-Gender Social Ties Around the World"
 collection: wps
-link: "https://drew-johnston.com/files/Cross-Gender_Social_Ties_Around_the_world"
+link: "https://drew-johnston.com/files/Cross-Gender_Social_Ties_Around_the_World.pdf"
 coauthors: Michael Bailey, Theresa Kuchler, Ayush Kumar, and Johannes Stroebel
 date: 2025-01-22
 outcome_prefix: 'Conditionally Accepted at the '
