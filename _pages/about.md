@@ -11,7 +11,7 @@ I'm a Postdoctoral Research Scientist at Meta.
 
 At Meta, I work with the Social Capital Lab, studying the connections between social ties, places, and economic opportunity.
 
-I received my PhD in Economics in 2024 from Harvard University, where I was advised by Raj Chetty, Ed Glaeser, and Jesse Shapiro.
+I received my PhD in Economics from Harvard University in 2024, where I was advised by Raj Chetty, Ed Glaeser, and Jesse Shapiro.
 
 Before that, I studied at Columbia University, where I received a BA in Computer Science and Economics.
 
