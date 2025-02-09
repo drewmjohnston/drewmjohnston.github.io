@@ -49,6 +49,10 @@
       {% endif %}
     {% endif %}
 
+    {% if post.recognition %}
+      <br> <i>{{post.recognition}}</i>
+    {% endif %}
+
     {% if post.press %}
       <br> Press: {{post.press}}
     {% endif %}
