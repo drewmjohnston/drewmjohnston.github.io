@@ -2,7 +2,7 @@
 title: "Measuring Global Migration Flows using Online Data"
 collection: wps
 link: "https://drew-johnston.com/files/Measuring_Global_Migration_Flows_using_Online_Data.pdf"
-coauthors: Guanghua Chi, Guy Abel, Eugenia Giraudy, Mike Bailey
+coauthors: Guanghua Chi, Guy Abel, Eugenia Giraudy, and Mike Bailey
 date: 2025-04-16
 outcome_prefix: 'Forthcoming at the '
 outcome: 'Proceedings of the National Academy of Sciences'
