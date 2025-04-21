@@ -11,7 +11,7 @@ Hello!
 
 <br>
 
-I am a PhD Candidate in Political Economy and Government at Harvard, and a research affiliate at Opportunity Insights and the Institute for Quantitative Social Science. 
+I am a PhD Candidate in Political Economy and Government at Harvard, and a research affiliate at Opportunity Insights and the Institute for Quantitative Social Science. In July 2025, I will join the IIES at Stockholm University as an Assistant Professor. 
 
 <br>
 
@@ -21,10 +21,6 @@ In my research, I primarily explore how social capital shapes economic outcomes,
 
 
 Before graduate school, I worked at Opportunity Insights and earned a MSc in Economics from the University of Mannheim, and a BSc in Economics from Humboldt University of Berlin.  
-
-<br>
-
-I am currently on the 2024-2025 economics job market.
 
 <br>
 
