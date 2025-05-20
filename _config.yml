@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Drew Johnston"
 title_separator          : "-"
-name                     : &name 
-description              : &description 
-url                      : https://drew-johnston.com  #http://127.0.0.1:4000 
+name                     : &name
+description              : &description
+url                      : https://drew-johnston.com  #http://127.0.0.1:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drewmjohnston/drewmjohnston.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -54,14 +54,14 @@ analytics:
 author:
   name             : "Drew Johnston"
   avatar           : "profile.jpg"
-  bio              : 
-  location         : 
+  bio              :
+  location         :
   cv               : "https://drew-johnston.com/files/CV.pdf"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1CiatLQAAAAJ"
   email            : "drewmjohnston1@gmail.com"
-  researchgate     : 
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -73,13 +73,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         : "drew-m-johnston"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "drew_m_johnston"
@@ -206,6 +206,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
