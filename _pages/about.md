@@ -11,7 +11,7 @@ Hello!
 
 <br>
 
-I am a PhD Candidate in Political Economy and Government at Harvard, and a research affiliate at Opportunity Insights and the Institute for Quantitative Social Science. In July 2025, I will join the IIES at Stockholm University as an Assistant Professor. 
+I am an Assistant Professor at the IIES at Stockholm University and an Associate at Opportunity Insights at Harvard University. I received my PhD in Political Economy and Government in 2025 from Harvard. 
 
 <br>
 
