@@ -11,7 +11,7 @@ Hello!
 
 <br>
 
-I am an Assistant Professor at the IIES at Stockholm University and an Associate at Opportunity Insights at Harvard University. I received my PhD in Political Economy and Government in 2025 from Harvard. 
+I am an Assistant Professor at the IIES at Stockholm University. I'm also an Associate at Opportunity Insights at Harvard University and an affiliate member of the CESifo Network. I received my PhD in Political Economy and Government in 2025 from Harvard. 
 
 <br>
 
