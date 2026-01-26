@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Postdoctoral Research Scientist at Meta.
+I'm a Member of the Technical Staff at OpenAI, working as a data scientist on the economic research team.
 
-At Meta, I work with the Social Capital Lab, studying the connections between social ties, places, and economic opportunity.
+Before that, I worked at Meta's Social Capital Lab, studying the connections between social ties, places, and economic opportunity.
 
 I received my PhD in Economics from Harvard University in 2024, where I was advised by Raj Chetty, Ed Glaeser, and Jesse Shapiro.
 
-Before that, I studied at Columbia University, where I received a BA in Computer Science and Economics.
+As an undergraduate, I studied economics and computer science at Columbia University.
 
 <br>
 
