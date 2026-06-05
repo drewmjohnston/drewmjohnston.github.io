@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Martin Koenen"
 title_separator          : "-"
-name                     : &name 
-description              : &description 
-url                      : https://martinkoenen.com  #http://127.0.0.1:4000 
+name                     : &name
+description              : &description
+url                      : https://martinkoenen.com  #http://127.0.0.1:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinkoenen/martinkoenen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,13 +55,13 @@ author:
   name             : "Martin Koenen"
   avatar           : "photo_cropped.jpg"
   bio              : "Assistant Professor @ IIES Stockholm University"
-  location         : 
+  location         :
   cv               : "https://martinkoenen.com/files/cv_mkoenen.pdf"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : # "https://scholar.google.com/citations?user=1CiatLQAAAAJ"
   email            : "martin.koenen@iies.su.se"
-  researchgate     : 
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -73,16 +73,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -157,9 +157,9 @@ collections:
   wps:
     output: true
     permalink: /:collection/:path/
-  jmp:
-    output: true
-    permalink: /:collection/:path/
+  # jmp:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -193,12 +193,12 @@ defaults:
       layout: single
       author_profile: true
   # _jmp
-  - scope:
-      path: ""
-      type: jmp
-    values:
-      layout: single
-      author_profile: true
+  # - scope:
+  #     path: ""
+  #     type: jmp
+  #   values:
+  #     layout: single
+  #     author_profile: true
 
 # Sass/SCSS
 sass:
