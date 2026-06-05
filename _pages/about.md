@@ -3,32 +3,32 @@ permalink: /
 layout: archive
 excerpt: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-Hello! 
+Hello!
 
 <br>
 
-I am an Assistant Professor at the IIES at Stockholm University. I'm also an Associate at Opportunity Insights at Harvard University, an Affiliate Member of the CESifo Network and a Research Affiliate at RFBerlin. I received my PhD in Political Economy and Government in 2025 from Harvard. 
+I am an Assistant Professor at the IIES at Stockholm University. I'm also an Associate at Opportunity Insights at Harvard University, an Affiliate Member of the CESifo Network and a Research Affiliate at RFBerlin. I received my PhD in Political Economy and Government in 2025 from Harvard.
 
 <br>
 
-In my research, I primarily explore how social capital shapes economic outcomes, for instance by influencing where people live and how much they earn. In a second strand of work, I investigate the causes and consequences of political preferences and polarization. 
+In my research, I primarily explore how social capital shapes economic outcomes, for instance by influencing where people live and how much they earn. In a second strand of work, I investigate the causes and consequences of political preferences and polarization.
 
 <br>
 
 
-Before graduate school, I worked at Opportunity Insights and earned a MSc in Economics from the University of Mannheim, and a BSc in Economics from Humboldt University of Berlin.  
+Before graduate school, I worked at Opportunity Insights and earned a MSc in Economics from the University of Mannheim, and a BSc in Economics from Humboldt University of Berlin.
 
 <br>
 
-Job Market Paper
+<!-- Job Market Paper
 ------
 {% for post in site.jmp reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 Working Papers
 ------
