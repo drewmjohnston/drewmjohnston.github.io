@@ -6,6 +6,7 @@ coauthors: Theresa Kuchler, Manas Kulkarni, Johannes Stroebel
 date: 2026-06-01
 outcome_prefix:
 outcome: 'Data in Brief, 67(112905), June 2026'
+outcome_link: sciencedirect.com/science/article/pii/S2352340926004579
 abstract: "This article describes a new release of the Social Connectedness Index (SCI), a large-scale measure of social ties across geographic locations constructed from Facebook friendship links. The newly available SCI data have substantially expanded global coverage and finer geographic resolution than prior versions, and provide measures of social connectedness for national and subnational units across 178 countries. The SCI dataset is based on Facebook friendship networks from January 2026 and is freely available through the Humanitarian Data Exchange. This data descriptor details the methodology used to construct the measure, the structure of the SCI dataset, and its geographic coverage at various granularities."
 press: 
 recognition:
