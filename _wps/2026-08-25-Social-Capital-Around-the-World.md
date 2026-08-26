@@ -1,7 +1,7 @@
 ---
 title: "Social Capital Around the World: Measurement, Determinants, and Effects"
 collection: wps
-link: "https://drew-johnston.com/files/the-shift-to-agentic-ai-evidence-from-codex.pdf"
+link: 
 coauthors: Theresa Kuchler, Ayush Kumar, Johannes Stroebel, Manas Kulkarni, and Michael Bailey
 date: 2026-08-25
 outcome_prefix: "Revise & Resubmit"
