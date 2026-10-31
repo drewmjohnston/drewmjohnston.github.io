@@ -1,5 +1,5 @@
 ---
-title: "Social Ties and Residential Choice: Micro Evidence and Aggeregate Implications"
+title: "Social Ties and Residential Choice: Micro Evidence and Aggregate Implications"
 collection: wps
 link: "https://drew-johnston.com/files/Social_Ties_and_Residential_Choice.pdf"
 coauthors: Martin Koenen

@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Member of the Technical Staff at OpenAI, working as a data scientist on the economic research team.
+I’m a Member of the Technical Staff at OpenAI, where I work on the Economic Research team.
 
-Before that, I worked at Meta's Social Capital Lab, studying the connections between social ties, places, and economic opportunity.
+In my research, I use economics to learn about AI (and vice versa).
 
-I received my PhD in Economics from Harvard University in 2024.
+Previously, I worked at Meta's Social Capital Lab, studying the connections between social ties, places, and economic opportunity.
 
-As an undergraduate, I studied economics and computer science at Columbia University.
+I received my PhD in economics from Harvard University and my bachelor’s degree in economics and computer science from Columbia University.
 
 <br>
 
