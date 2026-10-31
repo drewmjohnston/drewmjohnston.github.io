@@ -10,7 +10,8 @@ locale                   : "en-US"
 title                    : "Drew Johnston"
 title_separator          : "-"
 name                     : &name
-description              : &description
+# Explicitly blank: avoid GitHub metadata fetching a repository tagline locally.
+description              : &description ""
 url                      : https://drew-johnston.com  #http://127.0.0.1:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drewmjohnston/drewmjohnston.github.io"
@@ -105,18 +106,23 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - bin
   - config
   - gulpfile.js
   - log
   - node_modules
   - package.json
+  - package-lock.json
+  - script
   - tmp
   - vendor
 keep_files:

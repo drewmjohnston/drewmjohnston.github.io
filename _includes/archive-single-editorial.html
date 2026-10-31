@@ -1,0 +1,40 @@
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+<article class="editorial-paper" itemscope itemtype="https://schema.org/CreativeWork">
+  <h3 class="editorial-paper__title" itemprop="headline">
+    {% if post.link %}
+      <a href="{{ post.link }}" rel="permalink">{{ title }}</a>
+    {% else %}
+      {{ title }}
+    {% endif %}
+  </h3>
+
+  {% if post.coauthors %}
+    <p class="editorial-paper__coauthors">with {{ post.coauthors }}</p>
+  {% endif %}
+
+  {% if post.outcome %}
+    <p class="editorial-paper__outcome">
+      {% if post.outcome_prefix %}{{ post.outcome_prefix }} {% endif %}
+      <cite>{% if post.outcome_link %}<a href="{{ post.outcome_link }}">{{ post.outcome }}</a>{% else %}{{ post.outcome }}{% endif %}</cite>
+    </p>
+  {% endif %}
+
+  {% if post.recognition %}
+    <p class="editorial-paper__recognition"><i>{{ post.recognition }}</i></p>
+  {% endif %}
+
+  {% if post.press %}
+    <p class="editorial-paper__press">Press: {{ post.press }}</p>
+  {% endif %}
+
+  {% if post.data %}
+    <p class="editorial-paper__resources">{{ post.data }}</p>
+  {% endif %}
+
+  {% if post.abstract %}
+    <details class="editorial-paper__abstract">
+      <summary>Abstract</summary>
+      <p>{{ post.abstract }}</p>
+    </details>
+  {% endif %}
+</article>

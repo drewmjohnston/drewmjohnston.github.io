@@ -1,0 +1,74 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname "$0")/.."
+site_root="$PWD"
+bundler_version=4.0.9
+
+usage() {
+  echo "Usage: bin/site {setup|build|verify|serve} [Jekyll options]"
+}
+
+case "${1:-}" in
+  setup|build|verify|serve) command="$1"; shift ;;
+  -h|--help|"") usage; exit 0 ;;
+  *) usage >&2; exit 1 ;;
+esac
+
+# Respect an existing Ruby 3.3 installation; otherwise find Homebrew's keg.
+site_ruby=""
+for candidate in "${SITE_RUBY:-$(command -v ruby || true)}" \
+  /opt/homebrew/opt/ruby@3.3/bin/ruby /usr/local/opt/ruby@3.3/bin/ruby; do
+  if [[ -x "$candidate" ]] && "$candidate" -e 'exit(RUBY_VERSION.start_with?("3.3.") ? 0 : 1)'; then
+    site_ruby="$candidate"
+    break
+  fi
+done
+if [[ -z "$site_ruby" ]]; then
+  echo "Ruby 3.3 is required. On macOS: brew install ruby@3.3" >&2
+  echo "Other systems: install the version in .ruby-version with your Ruby manager." >&2
+  exit 1
+fi
+export PATH="$(dirname "$site_ruby"):$PATH"
+
+# Keep gems, Bundler's cache, and optional Bundler installation in this checkout.
+export GEM_PATH="$site_root/.bundle/tools:$("$site_ruby" -e 'puts Gem.path.join(File::PATH_SEPARATOR)')"
+export BUNDLE_GEMFILE="$site_root/Gemfile"
+export BUNDLE_APP_CONFIG="$site_root/.bundle"
+export BUNDLE_PATH="$site_root/vendor/bundle"
+export BUNDLE_USER_HOME="$site_root/.bundle/user"
+
+bundle_site() {
+  "$site_ruby" -e 'gem "bundler", ARGV.shift; load Gem.bin_path("bundler", "bundle")' "$bundler_version" "$@"
+}
+
+if [[ "$command" == setup ]]; then
+  if ! "$site_ruby" -e 'gem "bundler", ARGV.first' "$bundler_version" 2>/dev/null; then
+    "$site_ruby" -S gem install bundler --version "$bundler_version" \
+      --install-dir "$site_root/.bundle/tools" --no-document
+  fi
+  bundle_site install
+  exit
+fi
+
+export BUNDLE_FROZEN=true
+if ! bundle_site check >/dev/null 2>&1; then
+  echo "Dependencies are missing or changed. Run bin/site setup first." >&2
+  exit 1
+fi
+
+case "$command" in
+  build)
+    JEKYLL_ENV=production bundle_site exec jekyll build --trace --strict_front_matter "$@"
+    ;;
+  verify)
+    if [[ "$#" -ne 0 ]]; then usage >&2; exit 1; fi
+    JEKYLL_ENV=production bundle_site exec jekyll build --trace --strict_front_matter
+    bundle_site exec ruby script/verify.rb
+    ;;
+  serve)
+    JEKYLL_ENV=development bundle_site exec jekyll serve \
+      --config _config.yml,_config.dev.yml --host localhost --port 4000 \
+      --trace --strict_front_matter "$@"
+    ;;
+esac
