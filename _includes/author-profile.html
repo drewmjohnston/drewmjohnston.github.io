@@ -19,8 +19,19 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  <nav class="author__contact-links" aria-label="Contact and research profile">
+    {% if author.email %}
+      <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
+    {% endif %}
+    {% if author.cv %}
+      <a href="{{ author.cv }}" aria-label="CV, PDF"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> CV</a>
+    {% endif %}
+    {% if author.googlescholar %}
+      <a href="{{ author.googlescholar }}" aria-label="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Scholar</a>
+    {% endif %}
+  </nav>
+
   <div class="author__urls-wrapper">
-    <a href="{{ author.cv }}"><button class="btn btn--inverse">CV</button></a>
     <ul class="author__urls social-icons">
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file"></i> CV</a></li>

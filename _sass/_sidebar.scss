@@ -95,7 +95,7 @@
 
 .author__content {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
@@ -130,14 +130,53 @@
   }
 }
 
-.author__urls-wrapper {
-  position: relative;
-  display: table-cell;
-  vertical-align: middle;
+.author__contact-links {
+  display: flex;
+  gap: 8px;
+  margin-top: 16px;
   font-family: $sans-serif;
-  z-index: 10;
-  position: relative;
-  cursor: pointer;
+
+  @include breakpoint($large) {
+    display: none;
+  }
+
+  a {
+    position: relative;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    min-width: 0;
+    min-height: 28px;
+    padding: 0 8px;
+    border: 1px solid mix($text-color, $background-color, 20%);
+    border-radius: 5px;
+    color: $text-color;
+    font-size: $type-size-6;
+    line-height: 1.2;
+    text-decoration: none;
+    white-space: nowrap;
+
+    // Keep a 44px tap area around the compact 28px outline.
+    &::after {
+      content: "";
+      position: absolute;
+      top: -9px;
+      right: 0;
+      bottom: -9px;
+      left: 0;
+    }
+
+    &:hover {
+      background-color: mix($text-color, $background-color, 5%);
+    }
+  }
+}
+
+.author__urls-wrapper {
+  display: none;
+  font-family: $sans-serif;
 
   li:last-child {
     a {
@@ -148,73 +187,12 @@
   @include breakpoint($large) {
     display: block;
   }
-
-  button {
-    margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
-  cursor: default;
-
-  @include breakpoint($large) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-
-  &:before {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -11px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $border-color transparent;
-    z-index: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-
-  &:after {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -10px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: #fff transparent;
-    z-index: 1;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
 
   li {
     white-space: nowrap;
